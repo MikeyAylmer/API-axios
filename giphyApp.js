@@ -1,5 +1,4 @@
 
-
 const $gifArea = $("#gif-area");
 const $searchInput = $("#search");
 
