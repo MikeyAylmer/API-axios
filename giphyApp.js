@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> f7009bd811b452192345bb1012ed65391f538cb0
 
 const $gifArea = $("#gif-area");
 const $searchInput = $("#search");
